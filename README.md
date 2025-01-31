@@ -1,9 +1,5 @@
 <h1 align="center">Hello, my name is Eduardo 👋</h1>
 
-<p>
-Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
-
 ## 🚀 About me
 - 💻 Full Stack Devellopment
 - 🎯 Currently focused on **JavaScript, Node.js, React e Java**.
