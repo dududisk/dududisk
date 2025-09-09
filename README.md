@@ -20,4 +20,5 @@
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/luiz-eduardo-matias-b227a0175/
 ---
 
+![Snake animation](https://github.com/dududisk/blob/output/github-contribution-grid-snake.svg)
 
