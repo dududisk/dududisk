@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor **Full Stack** & **Freelancer** criando sites e sistemas sob medida.  
-- 🎯 Atualmente focado em **JavaScript, TypeScript, Python e Java**.  
+- 🎯 Atualmente focado em **JavaScript, Python e Java**.  
 - 📚 Sempre buscando aprender novas tecnologias e boas práticas.  
 - ⚡ Experiência com **Frontend, Backend, Bancos de Dados e ambientes em Docker**.  
 - 🎨 Apaixonado por **Backend e IA**.  
@@ -18,10 +18,8 @@
 
 ### 🔹 Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
